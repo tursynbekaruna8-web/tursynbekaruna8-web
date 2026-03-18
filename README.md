@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Aruna 👋
 
 I am a Python developer and cybersecurity student at Astana IT University.
