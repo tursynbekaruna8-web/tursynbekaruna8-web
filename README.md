@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**tursynbekaruna8-web/tursynbekaruna8-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aruna 👋
 
-Here are some ideas to get you started:
+I am a Python developer and cybersecurity student at Astana IT University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on building web applications and improving my skills in algorithms and software engineering.
+
+My long-term goal is to become a data scientist, and I am currently building a strong foundation in programming and real-world application development.
+
+## 💻 Tech Stack
+- Python
+- FastAPI
+- HTML & CSS
+- SQLite
+- Git & GitHub
+
+## 🧠 Currently Learning
+- Data Structures & Algorithms
+- Web Development
+- Secure coding
+- Data Science fundamentals
+
+## 🚀 Projects
+- Mini Instagram Web App
+- Student Score Analyzer
+- Python Data Structures
+
+## 🎯 Goal
+To become a strong software engineer and grow into a data scientist by building real-world applications and solving meaningful problems.
