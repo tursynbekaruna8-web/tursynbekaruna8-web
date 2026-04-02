@@ -24,5 +24,3 @@ My long-term goal is to become a data scientist, and I am currently building a s
 - Student Score Analyzer
 - Python Data Structures
 
-## 🎯 Goal
-To become a strong software engineer and grow into a data scientist by building real-world applications and solving meaningful problems.
